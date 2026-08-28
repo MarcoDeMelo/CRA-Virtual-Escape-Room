@@ -2,7 +2,9 @@
 
 An interactive virtual escape room developed as a web-based game using TypeScript, Phaser, and Vue.js.
 
-## Live Demo
+## Demo
+
+[Watch Gameplay Video](https://youtu.be/9jlLxE-mhZs)
 
 [Play the CRA Virtual Escape Room](https://craescaperoom.web.app/)
 
@@ -42,11 +44,6 @@ Contributions included working with the game's interactive systems, implementing
 **Type:** Interactive Educational/Game Experience  
 **Technologies:** TypeScript, Phaser, Vue.js
 
-## Demo
-
-[Watch Gameplay Video](https://youtu.be/9jlLxE-mhZs)
-
-[Play the CRA Virtual Escape Room](https://craescaperoom.web.app/)
 
 ## My Contributions
 
