@@ -42,7 +42,7 @@ Contributions included working with the game's interactive systems, implementing
 **Type:** Interactive Educational/Game Experience
 
 ## Demo
-A live demo is available for playthrough a video will be attached below also https://youtu.be/9jlLxE-mhZs
+Video For Gameplay for those who want it https://youtu.be/9jlLxE-mhZs
 
 The project is available as a live web application:
 
