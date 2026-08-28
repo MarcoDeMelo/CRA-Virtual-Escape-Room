@@ -44,13 +44,9 @@ Contributions included working with the game's interactive systems, implementing
 
 ## Demo
 
-Video showing gameplay and the project work completed:
+[Watch Gameplay Video](https://youtu.be/9jlLxE-mhZs)
 
-https://youtu.be/9jlLxE-mhZs
-
-The project is available as a live web application:
-
-https://craescaperoom.web.app/
+[Play the CRA Virtual Escape Room](https://craescaperoom.web.app/)
 
 ## My Contributions
 
